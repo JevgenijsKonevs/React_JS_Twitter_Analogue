@@ -8,5 +8,5 @@
  5) search for the liked posts 
  6) search for the posts by keywords.
  
- ![alt text](https://github.com/[JevgenijsKonevs]/[React_project_testForm]/blob/[branch]/Capture.png?raw=true)
+ ![Capture](https://user-images.githubusercontent.com/55871427/80892941-bf624580-8cd6-11ea-83b1-5e0588f22a7c.PNG)
  
